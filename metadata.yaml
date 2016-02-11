@@ -1,0 +1,29 @@
+_repo: The-Treasure-of-the-Humble_48217
+contributor:
+  translator:
+    agent_name: Sutro, Alfred
+    alias: Sutro, Alfredo
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '1460'
+    url: http://www.gutenberg.org/2009/agents/1460
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2015-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Treasure of the Humble
+url: http://www.gutenberg.org/ebooks/48217
