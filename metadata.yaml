@@ -1,4 +1,5 @@
 _repo: The-Treasure-of-the-Humble_48217
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Sutro, Alfred
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1460'
     url: http://www.gutenberg.org/2009/agents/1460
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+covers:
+- cover_type: archival
+  image_path: 48217-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48217#The-Treasure-of-the-Humble
 gutenberg_issued: '2015-02-09'
 gutenberg_type: Text
 identifiers:
